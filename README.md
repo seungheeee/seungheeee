@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=c7a48b&text=SeungHeeYeom&fontAlignY=50&fontColor=fdf5e6&fontSize=40&height=200&stroke=000000&strokeWidth=2&descAlign=50)
 </div>
 <br>
-<h3 align="center">💻 풀스택 웹개발자입니다.</h3>
+<h3 align="center">💻 SH's project repository</h3>
 <p align="center">
     📋 resume : 
     <a href="https://shappy.notion.site/8f8fd012298c459193bf9922b8013957"><span style="color:red">염승희의 이력서</span></a>
