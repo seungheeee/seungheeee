@@ -6,13 +6,13 @@
 <h3 align="center">💻 SH's project repository</h3>
 <p align="center">
     📋 resume : 
-    <a href="https://shappy.notion.site/8f8fd012298c459193bf9922b8013957"><span style="color:red">염승희의 이력서</span></a>
+    <!-- <a href="https://shappy.notion.site/8f8fd012298c459193bf9922b8013957"><span style="color:red">염승희의 이력서</span></a> -->
     <br>
     📧 email : 
     <a href="https://shappy.notion.site/8f8fd012298c459193bf9922b8013957">shappy0206@naver.com</a>
     <br>
     📒 blog : 
-    <a href="https://seantech.tistory.com/">블로그 바로가기</a>
+    <a href="https://seungheui.tistory.com/">블로그 바로가기</a>
 </p>
 <br>
 <h3 align="center">🛠 Skills 🛠</h3>
