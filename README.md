@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">💻 SH's project repository</h3>
 <p align="center">
-    📋 resume : 
+    📋 resume : 수정중
     <!-- <a href="https://shappy.notion.site/8f8fd012298c459193bf9922b8013957"><span style="color:red">염승희의 이력서</span></a> -->
     <br>
     📧 email : 
